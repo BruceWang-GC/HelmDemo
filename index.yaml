@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  testapi-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-22T18:49:54.2781901+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 29fd2a5c217c56bdf8cabc4b426dbb55b1d759d5c05be04759b80cd4bd6f3b78
+    name: testapi-chart
+    type: application
+    urls:
+    - testapi-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-22T18:26:32.5305767+09:00"
+    description: A Helm chart for Kubernetes
+    digest: bdce0f9ef8d4098813a551f06195c5271d2254eab07467c91b66c1d48170f6bc
+    name: testapi-chart
+    type: application
+    urls:
+    - https://brucewang-gc.github.io/helm-chart/testapi-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-22T18:49:54.2775707+09:00"
